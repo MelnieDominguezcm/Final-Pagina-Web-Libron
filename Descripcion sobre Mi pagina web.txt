@@ -1,0 +1,16 @@
+Hola profe le comento de que se basa mi pagina web. 
+Es una pagina que sirve y ayuda al usuario a buscar 
+informacion sobre aquel libro que le interese leer a 
+continuacion. 
+Cuenta con barra de menu, inicio, acerca de y contcto cada 
+una funciona. en acerca de dirige a una pagina que habla 
+de "Nosotros". Tiene 3 secciones, 1 para libros modernos, 
+otra para libros clasicos, otra para los dos libros mas destacados, 
+una seccion de contacto y pie de pagina. 
+Tanto nombre como logo son de mi propia autoria, si hace 
+click en cada libro le va a dirigir a una pagina donde 
+aparecen los datos de dicho libro. 
+En la parte de contacto tuve problema con los iconos que 
+no se ven intente de todo pero no pude. el primero dirige
+a mi facebook, el segundo a mi instagram y el tercero 
+a mi whatssapp. 
